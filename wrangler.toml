@@ -1,8 +1,9 @@
-name = "v20251104"
+name = "edgetunnel"
 main = "_worker.js"
-compatibility_date = "2025-11-04"
+compatibility_date = "2026-10-08"
 keep_vars = true
 
-#[[kv_namespaces]]
-#binding = "KV"			#KV绑定名默认不可修改
-#id = ""				#KV数据库id
+# 绑定 KV 后取消下面注释，填入你的 KV namespace id
+# [[kv_namespaces]]
+# binding = "KV"
+# id = ""
