@@ -7,3 +7,5 @@ keep_vars = true
 # [[kv_namespaces]]
 # binding = "KV"
 # id = ""
+
+# last redeploy trigger: 2026-10-29
